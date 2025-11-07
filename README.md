@@ -2,7 +2,7 @@
 👀 I’m interested in software development, particularly in areas like web development, mobile app development, and artificial intelligence.
 🌱 I’m currently learning React, Node.js, and Python to improve my skills and stay up-to-date with industry trends.
 💞️ I’m looking to collaborate on projects that involve building innovative solutions to real-world problems, and I'm open to contributing to open-source projects.
-📫 How to reach me: You can reach me on GitHub, LinkedIn, or via email at [zemzemhama@gmail.com].
+📫 How to reach me: You can reach me on GitHub, LinkedIn, or via email at [zamzemmohamed610@gmail.com].
 😄 Pronouns: He/Him
 ⚡ Fun fact: I'm a scout and an avid gamer, and I enjoy playing video games in my free time, which helps me develop my problem-solving skills and think strategically.
 
